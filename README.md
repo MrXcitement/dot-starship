@@ -1,0 +1,2 @@
+# Starship shell prompt configuration
+
