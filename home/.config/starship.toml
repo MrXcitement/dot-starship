@@ -2,3 +2,4 @@
 disabled = true
 [shell]
 disabled = false
+style = 'cyan bold'
